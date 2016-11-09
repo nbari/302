@@ -1,0 +1,4 @@
+google.de,  https://google.com
+google.com,  https://google.com
+foo,  https://www.google.de/search?q=foo
+rana/,  https://www.google.de/search?q=bar
